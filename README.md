@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/T00bias"><img src="https://api.daily.dev/devcards/900afe050eb14bfc94ef6db4e5b5c291.png?r=jhd" width="400" alt="Rodney Foster Jr's Dev Card"/></a>
