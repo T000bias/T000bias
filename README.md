@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Full-stack Software Engineer from Philadelphia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t000bias&label=Profile%20views&color=0e75b6&style=flat" alt="t000bias" /> </p>
+<p><img align="center" alt="T000bias" src="https://www.codewars.com/users/T000bias/badges/large"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t000bias" alt="t000bias" /></a> </p>
 
@@ -50,4 +51,3 @@
 
 <a href="https://app.daily.dev/T00bias"><img src="https://api.daily.dev/devcards/900afe050eb14bfc94ef6db4e5b5c291.png?r=jhd" width="400" alt="Rodney Foster Jr's Dev Card"/></a>
 
-<a href="https://www.codewars.com/users/T000bias/badges/large"> Check me out on CodeWars! </a>
