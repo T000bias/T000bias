@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://revengerofthecoder.hashnode.dev/](https://revengerofthecoder.hashnode.dev/)
 
-- 💬 Ask me about **Electrical Engineering**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **rodney.fosterbfhs@gmail.com**
 
@@ -49,3 +49,5 @@
 
 
 <a href="https://app.daily.dev/T00bias"><img src="https://api.daily.dev/devcards/900afe050eb14bfc94ef6db4e5b5c291.png?r=jhd" width="400" alt="Rodney Foster Jr's Dev Card"/></a>
+
+<a href="https://www.codewars.com/users/T000bias/badges/large"> Check me out on CodeWars! </a>
