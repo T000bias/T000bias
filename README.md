@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/T000bias)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React & Bootstrap**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Applications**
 
