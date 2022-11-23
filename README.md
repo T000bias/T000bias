@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rodney Foster Jr</h1>
 <h3 align="center">The Dual Wielding (Electrical & Software) Engineer</h3>
