@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rodneythetechcie.tech/](https://rodneythetechcie.tech/)
 
-- 📝 I regularly write articles on [I'll Leave a Comment Later](https://commentlater.hashnode.dev/)
+- 📝 I regularly write articles on [Refactorize](https://refactorize.hashnode.dev/)
 
 - 💬 Ask me about **Web Development**
 
