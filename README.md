@@ -12,13 +12,10 @@
 
 - 👨‍💻 All of my projects are available at [https://rodneythetechcie.tech/](https://rodneythetechcie.tech/)
 
-- 📝 I regularly write articles on [Rodney, the Techcie]([https://refactorize.hashnode.dev/](https://rodneythetechcie.hashnode.dev/))
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **rodney.fosterbfhs@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1uKIjHQd64vUhVIBBd9rJBFgNTe8EdNiM/edit](https://docs.google.com/document/d/1uKIjHQd64vUhVIBBd9rJBFgNTe8EdNiM/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
