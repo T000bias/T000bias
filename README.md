@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Framework & Python Programming Language**
 
-- 👨‍💻 All of my projects are available at [https://rodneythetechcie.tech/](https://rodneythetechcie.tech/)
+- 👨‍💻 All of my projects are available at []
 
 - 💬 Ask me about **Web Development**
 
