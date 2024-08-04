@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t000bias" alt="t000bias" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ui3er" target="blank"><img src="https://img.shields.io/twitter/follow/ui3er?logo=twitter&style=for-the-badge" alt="ui3er" /></a> </p>
-
 - 🌱 I’m currently learning **React Framework & Python Programming Language**
 
 - 👨‍💻 All of my projects are available at []
